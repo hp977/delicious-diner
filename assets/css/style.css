@@ -134,7 +134,7 @@ html {
 }
 
 body {
-  background-color: var(--rich-black-fogra-29);
+  background-color: var(--light-gray);
   color: var(--white_a60);
   font-size: 1.6rem;
   line-height: 1.75;
@@ -725,6 +725,10 @@ body.active { overflow: hidden; }
   gap: 8px;
 }
 
+.grid-list {
+  width: 80;
+  height: 80;
+}
 .footer-bottom { padding-block: 30px; }
 
 .copyright {
